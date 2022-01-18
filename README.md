@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anikdatos
+- 👀 I’m interested in deep learning architectures
+- 🌱 I’m currently working on active speaker detection
+- 💞️ I’m looking to collaborate on audio and video processing
+- 📫 How to reach me anikdatos@protonmail.com
